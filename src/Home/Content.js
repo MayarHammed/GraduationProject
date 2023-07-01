@@ -4,7 +4,6 @@ import "./Content.css";
 import pro from "../images/case.png";
 import { Link } from "react-router-dom";
 import Bounce from "react-reveal/Bounce";
-// import Header from '../Components/Header'
 
 function Home() {
   return (
