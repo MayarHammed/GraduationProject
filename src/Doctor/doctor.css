@@ -1,0 +1,439 @@
+.img1 {
+    position: relative;
+    top: 32px;
+    left: 2px;
+    width: 35px;
+    height: 45px;
+    color: #ed1c24;
+    padding-bottom: 0;
+  }
+  
+  .MH {
+    position: relative;
+    bottom: 650px;
+    right: 500px;
+  }
+  .pp {
+    font-size: 120px;
+    font-family: cursive;
+    /* width: 0%; */
+  }
+  
+  button {
+    margin: 20px;
+    width: 300px;
+    height: 70px;
+    padding: 10px;
+    font-size: 30px;
+  }
+  button:hover {
+    transition: 0.8s;
+    background-color: #ed1c24;
+    color: white;
+  }
+  .DM {
+    position: relative;
+    bottom: 580px;
+    width: 100%;
+    height: 800px;
+    background-color: transparent;
+  }
+  .DM1 {
+    width: 90%;
+    height: 100%;
+    background-color: white;
+    box-shadow: 10px -20px 1000px -100px black;
+    margin: auto;
+    border-radius: 50px;
+  }
+  .left {
+    width: 55%;
+    height: 100%;
+    background-color: transparent;
+    position: relative;
+  }
+  .left-p {
+    position: absolute;
+    top: 150px;
+    left: 58px;
+    color: #00132b;
+    font-weight: bold;
+    font-family: cursive;
+    text-transform: uppercase;
+  }
+  hr {
+    width: 10%;
+    position: absolute;
+    top: 270px;
+    left: 20px;
+    color: #ed1c24;
+  }
+  .span1 {
+    width: 130px;
+    height: 15px;
+    border-radius: 10px;
+    background-color: #ed1c24;
+    position: absolute;
+    top: 240px;
+    left: 60px;
+  }
+  .aa {
+    background-color: aliceblue;
+    color: black;
+  }
+  .left-pp {
+    width: 100%;
+    position: absolute;
+    top: 300px;
+    right: 80px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: black;
+  }
+  .left-ppp {
+    position: absolute;
+    top: 340px;
+    left: 64px;
+    font-size: 25px;
+    color: black;
+  }
+  .open {
+    position: absolute;
+    top: 420px;
+    left: 40px;
+    width: 400px;
+    height: 100px;
+    border: 0;
+    background-color: #00132b;
+    color: white;
+  }
+  .open:hover {
+    /* box-shadow: 1px 1px 20px 10px  black ; */
+    color: #00132b;
+  }
+  .DM-img {
+    width: 45%;
+    height: 100%;
+    background-color: transparent;
+    position: relative;
+    left: 1015px;
+    bottom: 800px;
+    border-radius: 50px;
+  }
+  .DM-img-btn {
+    position: absolute;
+    top: 100px;
+    right: 150px;
+    width: 70%;
+  }
+  
+  .KM-img {
+    position: relative;
+    bottom: 480px;
+    left: 200px;
+    width: 40%;
+    height: 700px;
+  }
+  .K-img {
+    width: 90%;
+    height: 95%;
+  }
+  
+  .LM {
+    width: 800px;
+    height: 550px;
+    background-color: transparent;
+    position: relative;
+    left: 1250px;
+    bottom: 1100px;
+  }
+  .LM p {
+    color: #00132b;
+    font-size: 60px;
+    font-family: cursive;
+    position: relative;
+    right: 345px;
+    font-weight: bold;
+  }
+  .LM .SP {
+    color: #00132b;
+    font-size: 60px;
+    font-family: cursive;
+    position: relative;
+    right: 358px;
+    font-weight: bold;
+  }
+  .LM button {
+    background-color: #00132b;
+    position: absolute;
+    bottom: -20px;
+    left: -185px;
+    width: 400px;
+    height: 110px;
+  }
+  .LM button:hover {
+    background-color: #ed1c24;
+  }
+  .LM span {
+    font-size: 25px;
+    position: relative;
+    top: 20px;
+    right: 195px;
+    color: #00132b;
+    width: 20px;
+    opacity: 0.8;
+  }
+  
+  .slider {
+      position: relative;
+      bottom: 790px;
+    width: 100%;
+    height: 950px;
+    background-color: transparent;
+  }
+  
+  .slider p {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #00132b;
+  }
+  .slider h1 {
+    color: #00132b;
+    font-weight: bold;
+    position: relative;
+    left: 10px;
+    top: -20px;
+  }
+  
+  .s-slider {
+    width: 85%;
+    height: 800px;
+    background-color: aquamarine;
+    margin: auto;
+    border-radius: 300px;
+    background-image: url(../images/project.png);
+    display: flex;
+    box-shadow: 1px 1px 18px 1px black;
+  }
+  
+  .s-slider .card-slider {
+    width: 350px;
+    height: 410px;
+    background-color: white;
+    position: relative;
+    top: 130px;
+    left: 115px;
+    border-radius: 50px;
+    margin-left: 20px;
+  }
+  
+  .s-slider .card-slider p {
+    padding-top: 60px;
+    font-weight: bold;
+    color: #00132b;
+  }
+  .s-slider .card-slider span {
+    color: #00132b;
+    font-size: 20px;
+  }
+  .s-slider .card-slider img {
+    position: relative;
+    top: 30px;
+  }
+  .s-slider .card-slider .pro4 {
+    width: 85px;
+  }
+  .s-slider .card-slider .pro2 {
+    position: relative;
+    top: -16px;
+  }
+  
+  .s-slider .card-slider button {
+    background-color: #00132b;
+    color: white;
+    position: relative;
+    width: 275px;
+    top: 140px;
+    border-radius: 0px;
+  }
+  .s-slider .card-slider .READ {
+    position: relative;
+    top: 121px;
+  }
+  
+  .s-slider .card-slider button:hover {
+    background-color: #ed1c24;
+    color: #00132b;
+    border-radius: 50px;
+  
+    width: 250px;
+    transition: 0.7s;
+  }
+  .p-pro {
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+    position: relative;
+    left: 950px;
+    bottom: 40px;
+    background-image: url(../images/coronavirus-png.png);
+    background-size: contain;
+  }
+  .a-card {
+    width: 100%;
+    height: 700px;
+    background-color: transparent;
+    display: flex;
+    margin-top: 60px;
+  }
+  .a-card .card-App {
+    width: 30%;
+    height: 100%;
+    background-color: transparent;
+    margin-left: 25px;
+    position: relative;
+    left: 60px;
+    box-shadow: 1px 1px 90px -50px black;
+    border: 0;
+  }
+  .a-card .card-App .card-c {
+    width: 80%;
+    height: 50%;
+    background-color: transparent;
+    margin: 30px auto;
+  }
+  .a-card .card-App .card-c img {
+    width: 100%;
+    height: 100%;
+  }
+  .a-card .card-App .card-c button {
+    position: relative;
+    bottom: 160px;
+    width: 260px;
+    background-color: #00132b;
+  }
+  .a-card .card-App .card-c button:hover {
+    background-color: #ed1c24;
+  }
+  .a-card .card-App .card-c h1 {
+    color: #00132b;
+    position: relative;
+    top: -100px;
+  }
+  .a-card .card-App .card-c p {
+    color: #00132b;
+  
+    position: relative;
+    bottom: 100px;
+  }
+  .h1{
+    margin-top: 200px;
+  }
+  .a-card .card-App .card-c .img-card {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 100px;
+    right: 20px;
+  }
+  .LLM {
+    width: 100%;
+    height: 700px;
+    background-color: transparent;
+    position: relative;
+    top: 100px;
+  
+    display: flex;
+  }
+  .LLM .LM-M {
+    width: 35%;
+    height: 85%;
+    background-color: white;
+    box-shadow: 1px 1px 90px -45px black;
+    position: relative;
+    left: 250px;
+    margin-left: 30px;
+  }
+  
+  .LLM .LM-M .LM-MM {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 270px;
+    top: -50px;
+    border-radius: 100px;
+  }
+  .LLM .LM-M .LM-MM img {
+    width: 100%;
+    height: 100%;
+    border-radius: 100px;
+  }
+  .LLM .LM-M h1 {
+    position: relative;
+    top: 180px;
+  }
+  .LLM .LM-M p {
+    position: relative;
+    top: 200px;
+  }
+  .LLM .LM-M .t7 {
+    width: 25%;
+    height: 150px;
+    position: relative;
+    top: 200px;
+    opacity: 0.8;
+  }
+  
+  .T1 {
+    position: relative;
+    bottom: 800px;
+    left: 900px;
+    width: 300px;
+    z-index: -1;
+  }
+  .T2 {
+    position: relative;
+    right: 1000px;
+    width: 200px;
+  }
+  .h11 {
+    position: relative;
+    left: 15px;
+    font-size: 60px;
+  }
+  .finish {
+    width: 100%;
+    height: 450px;
+    background-image: url(../images/ever_bg.jpg);
+    background-size: cover;
+  }
+  
+  .finish input {
+    width: 1400px;
+    height: 110px;
+    position: relative;
+    top: 120px;
+    left: 250px;
+    border-radius: 50px;
+    background-color: transparent;
+    font-size: 25px;
+    padding-left: 30px;
+    outline: none;
+  }
+  .finish .content-readmore {
+    width: 400px;
+    height: 60px;
+    background-color: #00132b;
+    position: relative;
+    bottom: 150px;
+    right: 690px;
+    border-radius: 100px;
+    border: 0;
+    font-size: 25px;
+  }
+  .finish .content-readmore:hover {
+    transition: 1s;
+    background-color: #ed1c24;
+    color: black;
+  }
+  

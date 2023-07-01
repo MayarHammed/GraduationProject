@@ -1,0 +1,73 @@
+
+.Mpp .pp{
+    color: black;
+    font-size: 52px;
+    padding: 20px;
+    
+}
+.Mpp button{
+    width: 260px;
+    height: 55px;
+    border: 0;
+    background-color: rgb(57, 7, 103);
+    color: white;
+    margin-left: 10px;
+    font-size: 20px;
+    border-radius: 20%;
+    
+}
+.SR{
+    color: red;
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 25px;
+}
+.par_f{
+    color: white;
+    position: absolute;
+    bottom: 225px;
+    left: 160px;
+    font-size: 115px;
+}
+.img{
+    height: 350px;
+}
+.blue{
+    position: relative;
+    top: 1px;
+}
+.form_serarch{
+  display: flex;
+  align-items: center;
+  background-color: rgb(47, 1, 48);
+  width: 55%;
+  height: 100px;
+  
+}
+input[type="text"] {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-size: 26px;
+    flex: 1;
+    font-family: cursive;
+    background-color: gainsboro;
+  }
+  
+  button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 26px;
+    font-family: cursive;
+    position: relative;
+    top: 25px;
+    right: 13px;
+    height: 65px;
+    width: 160px;    
+  }

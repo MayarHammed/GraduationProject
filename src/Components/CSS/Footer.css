@@ -1,0 +1,117 @@
+/* ==========================================
+    FOR DEMO PURPOSE
+  ========================================== */
+
+footer {
+  height: 700px;
+}
+
+.text-small {
+  font-size: 0.9rem;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
+.form-control {
+  background: #212529;
+  border-color: #545454;
+}
+
+.form-control:focus {
+  background: #212529;
+}
+
+footer {
+  background: #212529;
+}
+
+/* ==========================================
+      CUSTOM UTILS CLASSES
+    ========================================== */
+body,
+html {
+  height: 100%;
+}
+
+.Q {
+  display: flex;
+  justify-content: center;
+}
+
+.Quick  {
+  position: relative;
+  bottom: 450px;
+  left: 350px;
+}
+.Quick .Quick-T {
+  color: white;
+  font-size: 40px;
+  font-family: cursive;
+}
+.Quick ul {
+  display: block;
+  position: relative;
+  left: 38%;
+  height: 100px;
+}
+.Quick ul li {
+  color: grey;
+  position: relative;
+  right: 100px;
+}
+.p2 {
+  background-color: rgb(160, 158, 158);
+  height: 19%;
+}
+.p2 .Bootstrapious{
+  color: white;
+  font-family: cursive;
+  font-size: 25px;
+  
+}
+.QMQ {
+  background-color: rgb(97, 96, 96);
+
+}
+.Q-text .Q-h1{
+    color: wheat;
+}
+
+
+.Q-text p {
+    color: black;
+    font-family:sans-serif;
+    font-size: 25px;
+    width: 800px;
+    text-align: center;
+    position: relative;
+    left: 240px;
+    font-weight:300;
+}
+.Q-text a{
+    color:darkred;
+}
+
+.Q-DM{
+    position: relative;
+    right: 300px;
+    width: 500px;
+    color: red;
+}
+.Q-DM .p-q {
+  color:darkgrey;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.Q-text .q-p{
+  color: black;
+}
