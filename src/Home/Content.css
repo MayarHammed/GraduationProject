@@ -65,7 +65,7 @@
 .buttons_perent {
   display: flex;
   position: relative;
-  left: 460px;
+  left: 430px;
 }
 .btn {
   position: relative;
@@ -278,3 +278,10 @@ strong {
   box-shadow: 0 0 5px #008cff, 0 0 20px #008cff, 0 0 50px #008cff,
     0 0 100px #008cff;
 }
+/* -------------------------------- */
+/* ================== */
+
+/* === removing default button style ===*/
+
+
+
