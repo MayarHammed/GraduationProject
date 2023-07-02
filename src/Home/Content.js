@@ -53,7 +53,15 @@ function Home() {
             <button className="btnxxz">Home</button>
           </Link>
         </div>
-        
+        <div className="wrapper">
+          <div className="static-txts">I'm a</div>
+          <div className="dynamic-txts">
+            <li>
+              {" "}
+              <span>Family Doctor</span>{" "}
+            </li>
+          </div>
+        </div>
       </div>
     </Bounce>
   );
